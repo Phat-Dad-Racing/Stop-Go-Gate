@@ -1,5 +1,9 @@
 # Stop Go Gate
+
 Automated stop-go gate for RC racing
+#
+![image](images/Stop%20Go%20System%20v1.png)
+
 
 The Stop Go Gate (SGG) is an automated system for implementing timed stop/go events for RC racing. It features a central control unit, 3-panel LED traffic light tower, entry/exit detectors and via an embedded 2.4GHz radio, support for an optional remote control and slave traffic lights.
 
